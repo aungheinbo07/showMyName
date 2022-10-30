@@ -1,4 +1,4 @@
-myName = "aung hein bo";
+let myName = "aung hein bo";
 
 export function showUI(){
     let h1 = document.createElement("h1");
