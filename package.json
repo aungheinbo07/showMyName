@@ -1,0 +1,22 @@
+{
+  "name": "showmyname-ahb",
+  "version": "1.0.0",
+  "description": "san kyi tar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aungheinbo07/showMyName.git"
+  },
+  "keywords": [
+    "showmyname"
+  ],
+  "author": "aung hein bo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aungheinbo07/showMyName/issues"
+  },
+  "homepage": "https://github.com/aungheinbo07/showMyName#readme"
+}
